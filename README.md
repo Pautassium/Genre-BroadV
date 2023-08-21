@@ -14,3 +14,9 @@ Genre BroadV employs a deep neural network that has been meticulously trained to
 
 🤝 Contribute & Support:
 We welcome contributions and feedback! Feel free to open an issue or submit a pull request. Check our Contribution Guidelines for more information.
+
+🛠️ Installation & Usage:
+Please run BoHui_Genre_predict_exe to start this amazing program!!!
+
+Sincerely,
+Pautassium
